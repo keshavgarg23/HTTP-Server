@@ -1,0 +1,11 @@
+#PORT BELOW
+26122
+
+#STATIC Images URL BELOW 
+./static/images
+
+#HTML PATH BELOW 
+./html
+
+#TEMPLATE PATH BELOW
+./template
